@@ -1,0 +1,164 @@
+/*EROOR Pages*/
+.error-template h1 {font-size: 80px;}
+.error-template h3 {font-size: 28px;}
+.error-template {line-height: 90px;color: #999;}
+/*.error-actions {margin-top:15px;margin-bottom:15px;}*/
+.error-actions a {font-size: large;text-decoration: none; }
+.error-actions a:hover{text-decoration: none; }
+
+
+
+.ctm-btn{
+    /*padding:6px 30px;*/
+    /*font-size: 15px;*/
+    background:#333399;
+    /*background: #0e67a2;*/
+    /*border:none;*/
+    border-radius:0 !important
+}
+
+input{
+    border-radius:0 !important;
+    background:#fff !important;
+}
+.forgotpassword{
+    float: right;
+    /*margin-right:96px;*/
+    color: rgb( 154, 155, 157 );
+    font-weight: 100;
+    font-size: 13px;
+
+}
+.panel-default{
+    padding: 0 !important;
+    margin-top: 27px;
+    /*background: #eee;*/
+    border-radius:0px !important;
+
+    box-shadow: 1px 12px 37px -7px rgb( 0, 0, 50 )!important;
+    /*box-shadow: 1px 2px 20px 0px rgb( 0, 0, 50 )!important;*/
+    /*width: 404px;*/
+    /*height: 449px;*/
+
+
+
+
+}
+
+/*.form-control{height: 40px!important;}*/
+
+.panel-body{
+    margin-top: 22px;
+    /*padding-bottom: 40px!important;*/
+}
+.panel-heading{
+    font-size: 25px;
+    text-align:center ;
+    /*background: #eee !important;*/
+    color:#666 !important;
+    border: none;
+    /*text-transform: uppercase;*/
+    border-bottom: none!important;
+    /*padding-top: 40px!important;*/
+    border-bottom: 1px solid #ccc;
+}
+.panel-heading i{
+    font-size:30px;
+}
+
+.panel-heading-info{color: #888;font-size: large;}
+
+
+.login-panel-caption{
+    font-size: 14px;
+    color: rgb( 154, 155, 158 );
+    text-align: left
+;margin-top: 19px;
+
+
+}
+
+
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    /*padding: 10px;*/
+    font-size: 16px;
+
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.field-compulsory{color:red;font-size:13px!important;font-weight: bold;}
+
+/*.role-student{display: none;}*/
+
+
+
+
+#general-form, #sign-up-footer, #role-student, #role-teacher, #role-parent {
+    display: none;
+}
+
+#signup-scroll{max-height:350px;
+    overflow: auto;}
+
+
+
+/*Sign up confirmation*/
+.alert-successful {
+    color: #00c853 !important;
+}
+
+.no-account{ color: #888 }
+
+label{font-weight: 500!important;color: #444}
+
+.product-name{text-align: center;font-size:2.1em;font-family: 'Corbel'; color:#99cccc;font-weight: 600;}
+
+/*.fadein {*/
+    /*-webkit-animation: fadein 4s ease forwards;*/
+    /*animation: fadein 4s ease forwards;*/
+/*}*/
+
+/*@-webkit-keyframes fadein {*/
+    /*0%,50% { opacity: 0.8; }*/
+    /*100% { opacity: 1; }*/
+/*}*/
+
+/*@keyframes fadein {*/
+    /*0% { opacity: 0; }*/
+    /*100% { opacity: 1; }*/
+/*}*/
+
+
+
+.footer-login{text-align: center;color: #b5bff6;margin-top:30px;}
